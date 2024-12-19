@@ -16,5 +16,5 @@ It's possible that it would compile using old Microsoft compilers, but I haven't
 I've made much effort to provide here working and checked codes with hope it will be useful.
 **However, these codes are provided here "AS IS", with absolutely no warranty! I take no responsibility for using them - DO IT ON YOUR OWN RISK!**
 
-*Bart³omiej "Magnetic-Fox" Wêgrzyn,
+*BartÅ‚omiej "Magnetic-Fox" WÄ™grzyn,
 12th December, 2024*
